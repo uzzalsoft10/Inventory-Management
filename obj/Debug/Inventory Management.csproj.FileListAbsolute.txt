@@ -1,0 +1,20 @@
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csprojAssemblyReference.cache
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Form1.resources
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Properties.Resources.resources
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.GenerateResource.cache
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+C:\Users\Uzzal\source\repos\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
+D:\Dotnet Project\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+D:\Dotnet Project\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+D:\Dotnet Project\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+D:\Dotnet Project\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csprojAssemblyReference.cache
+D:\Dotnet Project\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Form1.resources
+D:\Dotnet Project\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Properties.Resources.resources
+D:\Dotnet Project\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.GenerateResource.cache
+D:\Dotnet Project\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CoreCompileInputs.cache
+D:\Dotnet Project\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+D:\Dotnet Project\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
